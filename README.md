@@ -1,0 +1,2 @@
+# Symptom-to-disease-and-Medicines-prediction-model-using-XG-BOOST
+The model first takes the symptoms from the user and then predicts the top 5 diseases based on XG BOOST model. Those top 5 disease also contains the probability along with the name. Then we predict the medicines using the medical data. we have given a threshold of 60 to match the medicines. We also Provided the Images,side effects of the Medicine
