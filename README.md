@@ -4,7 +4,7 @@ The model first takes the symptoms from the user and then predicts the top 5 dis
 
 # 🏥 AI-Powered Symptom to Medicine Recommendation System
 
-Remedii is an AI-driven healthcare assistant that predicts diseases from symptoms and recommends the most relevant medicines with their **images** and **side effects**, using a custom medicine dataset.
+It is an AI-driven healthcare assistant that predicts diseases from symptoms and recommends the most relevant medicines with their **images** and **side effects**, using a custom medicine dataset.Actually this is my prototype of my further project.
 
 ---
 
